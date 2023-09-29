@@ -49,16 +49,6 @@
         "conferenceTime": "March 17-22, 2024"
     },
     {
-        "name": "ICLR 2024",
-        "shortcut": "ICLR",
-        "location": "Vienna, Austria",
-        "deadline": "2023-09-28T23:59:59.000-12:00",
-        "url": "https://iclr.cc/Conferences/2024",
-        "abstractDeadline": "2023-09-23T23:59:59.000-12:00",
-        "note": "Mandatory abstract deadline on September 23, 2023. More info <a href='https://iclr.cc/Conferences/2024/CallForPapers'>here</a>.",
-        "conferenceTime": "May 07-11, 2024"
-    },
-    {
         "name": "CVPR 2024",
         "shortcut": "CVPR",
         "location": "Seattle, Washington, USA",

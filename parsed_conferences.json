@@ -8,14 +8,5 @@
         "abstractDeadline": null,
         "note": "More info can be found <a href=\"https://coling2025.org/calls/main_conference_papers/#important-dates\">here</a>.",
         "conferenceTime": "January 19-24, 2025"
-    },
-    {
-        "name": "ECML PKDD 2024",
-        "shortcut": "ECML PKDD",
-        "location": "Vilnius (Lithuania)",
-        "deadline": "2024-07-22T23:59:59.000-12:00",
-        "url": "https://2024.ecmlpkdd.org/",
-        "abstractDeadline": null,
-        "conferenceTime": "September 9-13, 2024"
     }
 ]
